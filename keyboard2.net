@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/williampaoli/Documents/keyboard2/keyboard2.sch)
-    (date "Thursday, August 06, 2020 at 10:36:47 AM")
+    (date "Thursday, August 06, 2020 at 11:51:00 AM")
     (tool "Eeschema (5.1.6-0-10_14)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -121,7 +121,7 @@
       (tstamp 5F2C3D54))
     (comp (ref D00)
       (value D)
-      (footprint keyboard_parts:D_SOD123_axial)
+      (footprint Diode_SMD:D_SOD-123)
       (datasheet ~)
       (libsource (lib Device) (part D) (description Diode))
       (sheetpath (names /) (tstamps /))
