@@ -19,7 +19,7 @@ U 1 1 5F2A8ADC
 P 10400 6400
 F 0 "J2" H 10292 5575 50  0000 C CNN
 F 1 "Conn_01x12_Female" H 10292 5666 50  0000 C CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x12_P1.00mm_Vertical" H 10400 6400 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical" H 10400 6400 50  0001 C CNN
 F 3 "~" H 10400 6400 50  0001 C CNN
 	1    10400 6400
 	-1   0    0    1   
@@ -30,7 +30,7 @@ U 1 1 5F2B002F
 P 9700 6300
 F 0 "J1" H 9750 6450 50  0000 L CNN
 F 1 "Conn_01x16_Female" V 9750 5600 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x16_P1.00mm_Vertical" H 9700 6300 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" H 9700 6300 50  0001 C CNN
 F 3 "~" H 9700 6300 50  0001 C CNN
 	1    9700 6300
 	1    0    0    -1  

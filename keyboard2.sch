@@ -55,17 +55,17 @@ Wire Wire Line
 	9300 6300 9500 6300
 Wire Wire Line
 	9300 6400 9500 6400
-Text Label 9300 6500 0    50   ~ 0
-col0
-Text Label 9300 6600 0    50   ~ 0
-col1
-Text Label 9300 6700 0    50   ~ 0
-col2
-Text Label 9300 6800 0    50   ~ 0
-col3
-Text Label 9300 6900 0    50   ~ 0
-col4
 Text Label 9300 7000 0    50   ~ 0
+col0
+Text Label 9300 6900 0    50   ~ 0
+col1
+Text Label 9300 6800 0    50   ~ 0
+col2
+Text Label 9300 6700 0    50   ~ 0
+col3
+Text Label 9300 6600 0    50   ~ 0
+col4
+Text Label 9300 6500 0    50   ~ 0
 col5
 Text Label 10750 6100 0    50   ~ 0
 col6
