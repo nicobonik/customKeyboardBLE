@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/williampaoli/Documents/keyboard2/keyboard2.sch)
-    (date "Wednesday, August 05, 2020 at 09:17:18 AM")
+    (date "Thursday, August 06, 2020 at 10:36:47 AM")
     (tool "Eeschema (5.1.6-0-10_14)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
