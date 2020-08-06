@@ -116,166 +116,166 @@ Wire Wire Line
 Wire Wire Line
 	10750 6900 10600 6900
 $Comp
-L keyboard_parts:KEYSW K02
+L keyboard2-rescue:KEYSW-keyboard_parts K02
 U 1 1 5F2D0262
 P 2300 1150
 F 0 "K02" H 2300 1383 60  0000 C CNN
 F 1 "KEYSW" H 2300 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 2300 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2300 1150 60  0001 C CNN
 F 3 "" H 2300 1150 60  0000 C CNN
 	1    2300 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K03
+L keyboard2-rescue:KEYSW-keyboard_parts K03
 U 1 1 5F2D0B96
 P 3000 1150
 F 0 "K03" H 3000 1383 60  0000 C CNN
 F 1 "KEYSW" H 3000 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 3000 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3000 1150 60  0001 C CNN
 F 3 "" H 3000 1150 60  0000 C CNN
 	1    3000 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K04
+L keyboard2-rescue:KEYSW-keyboard_parts K04
 U 1 1 5F2D14FC
 P 3700 1150
 F 0 "K04" H 3700 1383 60  0000 C CNN
 F 1 "KEYSW" H 3700 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 3700 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3700 1150 60  0001 C CNN
 F 3 "" H 3700 1150 60  0000 C CNN
 	1    3700 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K05
+L keyboard2-rescue:KEYSW-keyboard_parts K05
 U 1 1 5F2D2137
 P 4400 1150
 F 0 "K05" H 4400 1383 60  0000 C CNN
 F 1 "KEYSW" H 4400 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 4400 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4400 1150 60  0001 C CNN
 F 3 "" H 4400 1150 60  0000 C CNN
 	1    4400 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K06
+L keyboard2-rescue:KEYSW-keyboard_parts K06
 U 1 1 5F2D2A20
 P 5100 1150
 F 0 "K06" H 5100 1383 60  0000 C CNN
 F 1 "KEYSW" H 5100 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 5100 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5100 1150 60  0001 C CNN
 F 3 "" H 5100 1150 60  0000 C CNN
 	1    5100 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K07
+L keyboard2-rescue:KEYSW-keyboard_parts K07
 U 1 1 5F2D4108
 P 5800 1150
 F 0 "K07" H 5800 1383 60  0000 C CNN
 F 1 "KEYSW" H 5800 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 5800 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5800 1150 60  0001 C CNN
 F 3 "" H 5800 1150 60  0000 C CNN
 	1    5800 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K08
+L keyboard2-rescue:KEYSW-keyboard_parts K08
 U 1 1 5F2D47CB
 P 6500 1150
 F 0 "K08" H 6500 1383 60  0000 C CNN
 F 1 "KEYSW" H 6500 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 6500 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6500 1150 60  0001 C CNN
 F 3 "" H 6500 1150 60  0000 C CNN
 	1    6500 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K09
+L keyboard2-rescue:KEYSW-keyboard_parts K09
 U 1 1 5F2D50CD
 P 7200 1150
 F 0 "K09" H 7200 1383 60  0000 C CNN
 F 1 "KEYSW" H 7200 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7200 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7200 1150 60  0001 C CNN
 F 3 "" H 7200 1150 60  0000 C CNN
 	1    7200 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K010
+L keyboard2-rescue:KEYSW-keyboard_parts K010
 U 1 1 5F2D5D9F
 P 7900 1150
 F 0 "K010" H 7900 1383 60  0000 C CNN
 F 1 "KEYSW" H 7900 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7900 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7900 1150 60  0001 C CNN
 F 3 "" H 7900 1150 60  0000 C CNN
 	1    7900 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K011
+L keyboard2-rescue:KEYSW-keyboard_parts K011
 U 1 1 5F2D663D
 P 8600 1150
 F 0 "K011" H 8600 1383 60  0000 C CNN
 F 1 "KEYSW" H 8600 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 8600 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8600 1150 60  0001 C CNN
 F 3 "" H 8600 1150 60  0000 C CNN
 	1    8600 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K012
+L keyboard2-rescue:KEYSW-keyboard_parts K012
 U 1 1 5F2D6DE1
 P 9300 1150
 F 0 "K012" H 9300 1383 60  0000 C CNN
 F 1 "KEYSW" H 9300 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9300 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9300 1150 60  0001 C CNN
 F 3 "" H 9300 1150 60  0000 C CNN
 	1    9300 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K013
+L keyboard2-rescue:KEYSW-keyboard_parts K013
 U 1 1 5F2D77DD
 P 10000 1150
 F 0 "K013" H 10000 1383 60  0000 C CNN
 F 1 "KEYSW" H 10000 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10000 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB" H 10000 1150 60  0001 C CNN
 F 3 "" H 10000 1150 60  0000 C CNN
 	1    10000 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K014
+L keyboard2-rescue:KEYSW-keyboard_parts K014
 U 1 1 5F2D8491
 P 10700 1150
 F 0 "K014" H 10700 1383 60  0000 C CNN
 F 1 "KEYSW" H 10700 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10700 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10700 1150 60  0001 C CNN
 F 3 "" H 10700 1150 60  0000 C CNN
 	1    10700 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K01
+L keyboard2-rescue:KEYSW-keyboard_parts K01
 U 1 1 5F2CF8E3
 P 1600 1150
 F 0 "K01" H 1600 1383 60  0000 C CNN
 F 1 "KEYSW" H 1600 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 1600 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1600 1150 60  0001 C CNN
 F 3 "" H 1600 1150 60  0000 C CNN
 	1    1600 1150
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K00
+L keyboard2-rescue:KEYSW-keyboard_parts K00
 U 1 1 5F2C3D54
 P 900 1150
 F 0 "K00" H 900 1383 60  0000 C CNN
 F 1 "KEYSW" H 900 1050 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 900 1150 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 900 1150 60  0001 C CNN
 F 3 "" H 900 1150 60  0000 C CNN
 	1    900  1150
 	1    0    0    -1  
@@ -286,7 +286,7 @@ U 1 1 5F30AEBD
 P 600 1450
 F 0 "D00" V 646 1370 50  0000 R CNN
 F 1 "D" V 555 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123" H 600 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 600 1450 50  0001 C CNN
 F 3 "~" H 600 1450 50  0001 C CNN
 	1    600  1450
 	0    -1   -1   0   
@@ -297,7 +297,7 @@ U 1 1 5F30C0C7
 P 1300 1450
 F 0 "D01" V 1346 1370 50  0000 R CNN
 F 1 "D" V 1255 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 1300 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1300 1450 50  0001 C CNN
 F 3 "~" H 1300 1450 50  0001 C CNN
 	1    1300 1450
 	0    -1   -1   0   
@@ -318,7 +318,7 @@ U 1 1 5F30E9A3
 P 2000 1450
 F 0 "D02" V 2046 1370 50  0000 R CNN
 F 1 "D" V 1955 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 2000 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 1450 50  0001 C CNN
 F 3 "~" H 2000 1450 50  0001 C CNN
 	1    2000 1450
 	0    -1   -1   0   
@@ -329,7 +329,7 @@ U 1 1 5F30F336
 P 2700 1450
 F 0 "D03" V 2746 1370 50  0000 R CNN
 F 1 "D" V 2655 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 2700 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2700 1450 50  0001 C CNN
 F 3 "~" H 2700 1450 50  0001 C CNN
 	1    2700 1450
 	0    -1   -1   0   
@@ -340,7 +340,7 @@ U 1 1 5F30FA2B
 P 3400 1450
 F 0 "D04" V 3446 1370 50  0000 R CNN
 F 1 "D" V 3355 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 3400 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3400 1450 50  0001 C CNN
 F 3 "~" H 3400 1450 50  0001 C CNN
 	1    3400 1450
 	0    -1   -1   0   
@@ -351,7 +351,7 @@ U 1 1 5F30FE64
 P 4100 1450
 F 0 "D05" V 4146 1370 50  0000 R CNN
 F 1 "D" V 4055 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 4100 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4100 1450 50  0001 C CNN
 F 3 "~" H 4100 1450 50  0001 C CNN
 	1    4100 1450
 	0    -1   -1   0   
@@ -362,7 +362,7 @@ U 1 1 5F310397
 P 4800 1450
 F 0 "D06" V 4846 1370 50  0000 R CNN
 F 1 "D" V 4755 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 4800 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4800 1450 50  0001 C CNN
 F 3 "~" H 4800 1450 50  0001 C CNN
 	1    4800 1450
 	0    -1   -1   0   
@@ -373,7 +373,7 @@ U 1 1 5F310866
 P 6200 1450
 F 0 "D08" V 6246 1370 50  0000 R CNN
 F 1 "D" V 6155 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6200 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6200 1450 50  0001 C CNN
 F 3 "~" H 6200 1450 50  0001 C CNN
 	1    6200 1450
 	0    -1   -1   0   
@@ -384,7 +384,7 @@ U 1 1 5F311AE0
 P 5500 1450
 F 0 "D07" V 5546 1370 50  0000 R CNN
 F 1 "D" V 5455 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 5500 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5500 1450 50  0001 C CNN
 F 3 "~" H 5500 1450 50  0001 C CNN
 	1    5500 1450
 	0    -1   -1   0   
@@ -395,7 +395,7 @@ U 1 1 5F31226B
 P 6900 1450
 F 0 "D09" V 6946 1370 50  0000 R CNN
 F 1 "D" V 6855 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6900 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6900 1450 50  0001 C CNN
 F 3 "~" H 6900 1450 50  0001 C CNN
 	1    6900 1450
 	0    -1   -1   0   
@@ -406,7 +406,7 @@ U 1 1 5F313055
 P 8300 1450
 F 0 "D011" V 8346 1370 50  0000 R CNN
 F 1 "D" V 8255 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8300 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8300 1450 50  0001 C CNN
 F 3 "~" H 8300 1450 50  0001 C CNN
 	1    8300 1450
 	0    -1   -1   0   
@@ -417,7 +417,7 @@ U 1 1 5F313524
 P 9000 1450
 F 0 "D012" V 9046 1370 50  0000 R CNN
 F 1 "D" V 8955 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9000 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9000 1450 50  0001 C CNN
 F 3 "~" H 9000 1450 50  0001 C CNN
 	1    9000 1450
 	0    -1   -1   0   
@@ -428,7 +428,7 @@ U 1 1 5F3141AA
 P 9700 1450
 F 0 "D013" V 9746 1370 50  0000 R CNN
 F 1 "D" V 9655 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9700 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9700 1450 50  0001 C CNN
 F 3 "~" H 9700 1450 50  0001 C CNN
 	1    9700 1450
 	0    -1   -1   0   
@@ -439,7 +439,7 @@ U 1 1 5F3148EA
 P 10400 1450
 F 0 "D014" V 10446 1370 50  0000 R CNN
 F 1 "D" V 10355 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 10400 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10400 1450 50  0001 C CNN
 F 3 "~" H 10400 1450 50  0001 C CNN
 	1    10400 1450
 	0    -1   -1   0   
@@ -536,166 +536,166 @@ Wire Wire Line
 Wire Wire Line
 	10400 1300 10400 1150
 $Comp
-L keyboard_parts:KEYSW K12
+L keyboard2-rescue:KEYSW-keyboard_parts K12
 U 1 1 5F380520
 P 2300 2050
 F 0 "K12" H 2300 2283 60  0000 C CNN
 F 1 "KEYSW" H 2300 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 2300 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2300 2050 60  0001 C CNN
 F 3 "" H 2300 2050 60  0000 C CNN
 	1    2300 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K13
+L keyboard2-rescue:KEYSW-keyboard_parts K13
 U 1 1 5F380526
 P 3000 2050
 F 0 "K13" H 3000 2283 60  0000 C CNN
 F 1 "KEYSW" H 3000 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 3000 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3000 2050 60  0001 C CNN
 F 3 "" H 3000 2050 60  0000 C CNN
 	1    3000 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K14
+L keyboard2-rescue:KEYSW-keyboard_parts K14
 U 1 1 5F38052C
 P 3700 2050
 F 0 "K14" H 3700 2283 60  0000 C CNN
 F 1 "KEYSW" H 3700 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 3700 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3700 2050 60  0001 C CNN
 F 3 "" H 3700 2050 60  0000 C CNN
 	1    3700 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K15
+L keyboard2-rescue:KEYSW-keyboard_parts K15
 U 1 1 5F380532
 P 4400 2050
 F 0 "K15" H 4400 2283 60  0000 C CNN
 F 1 "KEYSW" H 4400 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 4400 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4400 2050 60  0001 C CNN
 F 3 "" H 4400 2050 60  0000 C CNN
 	1    4400 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K16
+L keyboard2-rescue:KEYSW-keyboard_parts K16
 U 1 1 5F380538
 P 5100 2050
 F 0 "K16" H 5100 2283 60  0000 C CNN
 F 1 "KEYSW" H 5100 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 5100 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5100 2050 60  0001 C CNN
 F 3 "" H 5100 2050 60  0000 C CNN
 	1    5100 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K17
+L keyboard2-rescue:KEYSW-keyboard_parts K17
 U 1 1 5F38053E
 P 5800 2050
 F 0 "K17" H 5800 2283 60  0000 C CNN
 F 1 "KEYSW" H 5800 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 5800 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5800 2050 60  0001 C CNN
 F 3 "" H 5800 2050 60  0000 C CNN
 	1    5800 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K18
+L keyboard2-rescue:KEYSW-keyboard_parts K18
 U 1 1 5F380544
 P 6500 2050
 F 0 "K18" H 6500 2283 60  0000 C CNN
 F 1 "KEYSW" H 6500 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 6500 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6500 2050 60  0001 C CNN
 F 3 "" H 6500 2050 60  0000 C CNN
 	1    6500 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K19
+L keyboard2-rescue:KEYSW-keyboard_parts K19
 U 1 1 5F38054A
 P 7200 2050
 F 0 "K19" H 7200 2283 60  0000 C CNN
 F 1 "KEYSW" H 7200 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7200 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7200 2050 60  0001 C CNN
 F 3 "" H 7200 2050 60  0000 C CNN
 	1    7200 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K110
+L keyboard2-rescue:KEYSW-keyboard_parts K110
 U 1 1 5F380550
 P 7900 2050
 F 0 "K110" H 7900 2283 60  0000 C CNN
 F 1 "KEYSW" H 7900 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7900 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7900 2050 60  0001 C CNN
 F 3 "" H 7900 2050 60  0000 C CNN
 	1    7900 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K111
+L keyboard2-rescue:KEYSW-keyboard_parts K111
 U 1 1 5F380556
 P 8600 2050
 F 0 "K111" H 8600 2283 60  0000 C CNN
 F 1 "KEYSW" H 8600 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 8600 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8600 2050 60  0001 C CNN
 F 3 "" H 8600 2050 60  0000 C CNN
 	1    8600 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K112
+L keyboard2-rescue:KEYSW-keyboard_parts K112
 U 1 1 5F38055C
 P 9300 2050
 F 0 "K112" H 9300 2283 60  0000 C CNN
 F 1 "KEYSW" H 9300 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9300 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9300 2050 60  0001 C CNN
 F 3 "" H 9300 2050 60  0000 C CNN
 	1    9300 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K113
+L keyboard2-rescue:KEYSW-keyboard_parts K113
 U 1 1 5F380562
 P 10000 2050
 F 0 "K113" H 10000 2283 60  0000 C CNN
 F 1 "KEYSW" H 10000 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10000 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB" H 10000 2050 60  0001 C CNN
 F 3 "" H 10000 2050 60  0000 C CNN
 	1    10000 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K114
+L keyboard2-rescue:KEYSW-keyboard_parts K114
 U 1 1 5F380568
 P 10700 2050
 F 0 "K114" H 10700 2283 60  0000 C CNN
 F 1 "KEYSW" H 10700 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10700 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10700 2050 60  0001 C CNN
 F 3 "" H 10700 2050 60  0000 C CNN
 	1    10700 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K11
+L keyboard2-rescue:KEYSW-keyboard_parts K11
 U 1 1 5F38056E
 P 1600 2050
 F 0 "K11" H 1600 2283 60  0000 C CNN
 F 1 "KEYSW" H 1600 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 1600 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1600 2050 60  0001 C CNN
 F 3 "" H 1600 2050 60  0000 C CNN
 	1    1600 2050
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K10
+L keyboard2-rescue:KEYSW-keyboard_parts K10
 U 1 1 5F380574
 P 900 2050
 F 0 "K10" H 900 2283 60  0000 C CNN
 F 1 "KEYSW" H 900 1950 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 900 2050 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB" H 900 2050 60  0001 C CNN
 F 3 "" H 900 2050 60  0000 C CNN
 	1    900  2050
 	1    0    0    -1  
@@ -706,7 +706,7 @@ U 1 1 5F38057A
 P 600 2350
 F 0 "D10" V 646 2270 50  0000 R CNN
 F 1 "D" V 555 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 600 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 600 2350 50  0001 C CNN
 F 3 "~" H 600 2350 50  0001 C CNN
 	1    600  2350
 	0    -1   -1   0   
@@ -717,7 +717,7 @@ U 1 1 5F380580
 P 1300 2350
 F 0 "D11" V 1346 2270 50  0000 R CNN
 F 1 "D" V 1255 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 1300 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1300 2350 50  0001 C CNN
 F 3 "~" H 1300 2350 50  0001 C CNN
 	1    1300 2350
 	0    -1   -1   0   
@@ -738,7 +738,7 @@ U 1 1 5F38058B
 P 2000 2350
 F 0 "D12" V 2046 2270 50  0000 R CNN
 F 1 "D" V 1955 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 2000 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 2350 50  0001 C CNN
 F 3 "~" H 2000 2350 50  0001 C CNN
 	1    2000 2350
 	0    -1   -1   0   
@@ -749,7 +749,7 @@ U 1 1 5F380591
 P 2700 2350
 F 0 "D13" V 2746 2270 50  0000 R CNN
 F 1 "D" V 2655 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 2700 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2700 2350 50  0001 C CNN
 F 3 "~" H 2700 2350 50  0001 C CNN
 	1    2700 2350
 	0    -1   -1   0   
@@ -760,7 +760,7 @@ U 1 1 5F380597
 P 3400 2350
 F 0 "D14" V 3446 2270 50  0000 R CNN
 F 1 "D" V 3355 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 3400 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3400 2350 50  0001 C CNN
 F 3 "~" H 3400 2350 50  0001 C CNN
 	1    3400 2350
 	0    -1   -1   0   
@@ -771,7 +771,7 @@ U 1 1 5F38059D
 P 4100 2350
 F 0 "D15" V 4146 2270 50  0000 R CNN
 F 1 "D" V 4055 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 4100 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4100 2350 50  0001 C CNN
 F 3 "~" H 4100 2350 50  0001 C CNN
 	1    4100 2350
 	0    -1   -1   0   
@@ -782,7 +782,7 @@ U 1 1 5F3805A3
 P 4800 2350
 F 0 "D16" V 4846 2270 50  0000 R CNN
 F 1 "D" V 4755 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 4800 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4800 2350 50  0001 C CNN
 F 3 "~" H 4800 2350 50  0001 C CNN
 	1    4800 2350
 	0    -1   -1   0   
@@ -793,7 +793,7 @@ U 1 1 5F3805A9
 P 6200 2350
 F 0 "D18" V 6246 2270 50  0000 R CNN
 F 1 "D" V 6155 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6200 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6200 2350 50  0001 C CNN
 F 3 "~" H 6200 2350 50  0001 C CNN
 	1    6200 2350
 	0    -1   -1   0   
@@ -804,7 +804,7 @@ U 1 1 5F3805AF
 P 5500 2350
 F 0 "D17" V 5546 2270 50  0000 R CNN
 F 1 "D" V 5455 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 5500 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5500 2350 50  0001 C CNN
 F 3 "~" H 5500 2350 50  0001 C CNN
 	1    5500 2350
 	0    -1   -1   0   
@@ -815,7 +815,7 @@ U 1 1 5F3805B5
 P 6900 2350
 F 0 "D19" V 6946 2270 50  0000 R CNN
 F 1 "D" V 6855 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6900 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6900 2350 50  0001 C CNN
 F 3 "~" H 6900 2350 50  0001 C CNN
 	1    6900 2350
 	0    -1   -1   0   
@@ -826,7 +826,7 @@ U 1 1 5F3805BB
 P 7600 2350
 F 0 "D110" V 7646 2270 50  0000 R CNN
 F 1 "D" V 7555 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 7600 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7600 2350 50  0001 C CNN
 F 3 "~" H 7600 2350 50  0001 C CNN
 	1    7600 2350
 	0    -1   -1   0   
@@ -837,7 +837,7 @@ U 1 1 5F3805C1
 P 8300 2350
 F 0 "D111" V 8346 2270 50  0000 R CNN
 F 1 "D" V 8255 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8300 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8300 2350 50  0001 C CNN
 F 3 "~" H 8300 2350 50  0001 C CNN
 	1    8300 2350
 	0    -1   -1   0   
@@ -848,7 +848,7 @@ U 1 1 5F3805C7
 P 9000 2350
 F 0 "D112" V 9046 2270 50  0000 R CNN
 F 1 "D" V 8955 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9000 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9000 2350 50  0001 C CNN
 F 3 "~" H 9000 2350 50  0001 C CNN
 	1    9000 2350
 	0    -1   -1   0   
@@ -859,7 +859,7 @@ U 1 1 5F3805CD
 P 9700 2350
 F 0 "D113" V 9746 2270 50  0000 R CNN
 F 1 "D" V 9655 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9700 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9700 2350 50  0001 C CNN
 F 3 "~" H 9700 2350 50  0001 C CNN
 	1    9700 2350
 	0    -1   -1   0   
@@ -870,7 +870,7 @@ U 1 1 5F3805D3
 P 10400 2350
 F 0 "D114" V 10446 2270 50  0000 R CNN
 F 1 "D" V 10355 2270 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 10400 2350 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10400 2350 50  0001 C CNN
 F 3 "~" H 10400 2350 50  0001 C CNN
 	1    10400 2350
 	0    -1   -1   0   
@@ -1087,150 +1087,150 @@ U 1 1 5F312BEA
 P 7600 1450
 F 0 "D010" V 7646 1370 50  0000 R CNN
 F 1 "D" V 7555 1370 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 7600 1450 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7600 1450 50  0001 C CNN
 F 3 "~" H 7600 1450 50  0001 C CNN
 	1    7600 1450
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K22
+L keyboard2-rescue:KEYSW-keyboard_parts K22
 U 1 1 5F46B149
 P 2300 2900
 F 0 "K22" H 2300 3133 60  0000 C CNN
 F 1 "KEYSW" H 2300 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 2300 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2300 2900 60  0001 C CNN
 F 3 "" H 2300 2900 60  0000 C CNN
 	1    2300 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K23
+L keyboard2-rescue:KEYSW-keyboard_parts K23
 U 1 1 5F46B14F
 P 3000 2900
 F 0 "K23" H 3000 3133 60  0000 C CNN
 F 1 "KEYSW" H 3000 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 3000 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3000 2900 60  0001 C CNN
 F 3 "" H 3000 2900 60  0000 C CNN
 	1    3000 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K24
+L keyboard2-rescue:KEYSW-keyboard_parts K24
 U 1 1 5F46B155
 P 3700 2900
 F 0 "K24" H 3700 3133 60  0000 C CNN
 F 1 "KEYSW" H 3700 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 3700 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3700 2900 60  0001 C CNN
 F 3 "" H 3700 2900 60  0000 C CNN
 	1    3700 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K25
+L keyboard2-rescue:KEYSW-keyboard_parts K25
 U 1 1 5F46B15B
 P 4400 2900
 F 0 "K25" H 4400 3133 60  0000 C CNN
 F 1 "KEYSW" H 4400 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 4400 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4400 2900 60  0001 C CNN
 F 3 "" H 4400 2900 60  0000 C CNN
 	1    4400 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K26
+L keyboard2-rescue:KEYSW-keyboard_parts K26
 U 1 1 5F46B161
 P 5100 2900
 F 0 "K26" H 5100 3133 60  0000 C CNN
 F 1 "KEYSW" H 5100 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 5100 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5100 2900 60  0001 C CNN
 F 3 "" H 5100 2900 60  0000 C CNN
 	1    5100 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K27
+L keyboard2-rescue:KEYSW-keyboard_parts K27
 U 1 1 5F46B167
 P 5800 2900
 F 0 "K27" H 5800 3133 60  0000 C CNN
 F 1 "KEYSW" H 5800 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 5800 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5800 2900 60  0001 C CNN
 F 3 "" H 5800 2900 60  0000 C CNN
 	1    5800 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K28
+L keyboard2-rescue:KEYSW-keyboard_parts K28
 U 1 1 5F46B16D
 P 6500 2900
 F 0 "K28" H 6500 3133 60  0000 C CNN
 F 1 "KEYSW" H 6500 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 6500 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6500 2900 60  0001 C CNN
 F 3 "" H 6500 2900 60  0000 C CNN
 	1    6500 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K29
+L keyboard2-rescue:KEYSW-keyboard_parts K29
 U 1 1 5F46B173
 P 7200 2900
 F 0 "K29" H 7200 3133 60  0000 C CNN
 F 1 "KEYSW" H 7200 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7200 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7200 2900 60  0001 C CNN
 F 3 "" H 7200 2900 60  0000 C CNN
 	1    7200 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K210
+L keyboard2-rescue:KEYSW-keyboard_parts K210
 U 1 1 5F46B179
 P 7900 2900
 F 0 "K210" H 7900 3133 60  0000 C CNN
 F 1 "KEYSW" H 7900 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7900 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7900 2900 60  0001 C CNN
 F 3 "" H 7900 2900 60  0000 C CNN
 	1    7900 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K211
+L keyboard2-rescue:KEYSW-keyboard_parts K211
 U 1 1 5F46B17F
 P 8600 2900
 F 0 "K211" H 8600 3133 60  0000 C CNN
 F 1 "KEYSW" H 8600 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 8600 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8600 2900 60  0001 C CNN
 F 3 "" H 8600 2900 60  0000 C CNN
 	1    8600 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K212
+L keyboard2-rescue:KEYSW-keyboard_parts K212
 U 1 1 5F46B185
 P 9300 2900
 F 0 "K212" H 9300 3133 60  0000 C CNN
 F 1 "KEYSW" H 9300 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9300 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB" H 9300 2900 60  0001 C CNN
 F 3 "" H 9300 2900 60  0000 C CNN
 	1    9300 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K21
+L keyboard2-rescue:KEYSW-keyboard_parts K21
 U 1 1 5F46B197
 P 1600 2900
 F 0 "K21" H 1600 3133 60  0000 C CNN
 F 1 "KEYSW" H 1600 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 1600 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1600 2900 60  0001 C CNN
 F 3 "" H 1600 2900 60  0000 C CNN
 	1    1600 2900
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K20
+L keyboard2-rescue:KEYSW-keyboard_parts K20
 U 1 1 5F46B19D
 P 900 2900
 F 0 "K20" H 900 3133 60  0000 C CNN
 F 1 "KEYSW" H 900 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 900 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_Plate" H 900 2900 60  0001 C CNN
 F 3 "" H 900 2900 60  0000 C CNN
 	1    900  2900
 	1    0    0    -1  
@@ -1241,7 +1241,7 @@ U 1 1 5F46B1A3
 P 600 3200
 F 0 "D20" V 646 3120 50  0000 R CNN
 F 1 "D" V 555 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 600 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 600 3200 50  0001 C CNN
 F 3 "~" H 600 3200 50  0001 C CNN
 	1    600  3200
 	0    -1   -1   0   
@@ -1252,7 +1252,7 @@ U 1 1 5F46B1A9
 P 1300 3200
 F 0 "D21" V 1346 3120 50  0000 R CNN
 F 1 "D" V 1255 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 1300 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1300 3200 50  0001 C CNN
 F 3 "~" H 1300 3200 50  0001 C CNN
 	1    1300 3200
 	0    -1   -1   0   
@@ -1273,7 +1273,7 @@ U 1 1 5F46B1B4
 P 2000 3200
 F 0 "D22" V 2046 3120 50  0000 R CNN
 F 1 "D" V 1955 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 2000 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 3200 50  0001 C CNN
 F 3 "~" H 2000 3200 50  0001 C CNN
 	1    2000 3200
 	0    -1   -1   0   
@@ -1284,7 +1284,7 @@ U 1 1 5F46B1BA
 P 2700 3200
 F 0 "D23" V 2746 3120 50  0000 R CNN
 F 1 "D" V 2655 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 2700 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2700 3200 50  0001 C CNN
 F 3 "~" H 2700 3200 50  0001 C CNN
 	1    2700 3200
 	0    -1   -1   0   
@@ -1295,7 +1295,7 @@ U 1 1 5F46B1C0
 P 3400 3200
 F 0 "D24" V 3446 3120 50  0000 R CNN
 F 1 "D" V 3355 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 3400 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3400 3200 50  0001 C CNN
 F 3 "~" H 3400 3200 50  0001 C CNN
 	1    3400 3200
 	0    -1   -1   0   
@@ -1306,7 +1306,7 @@ U 1 1 5F46B1C6
 P 4100 3200
 F 0 "D25" V 4146 3120 50  0000 R CNN
 F 1 "D" V 4055 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 4100 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4100 3200 50  0001 C CNN
 F 3 "~" H 4100 3200 50  0001 C CNN
 	1    4100 3200
 	0    -1   -1   0   
@@ -1317,7 +1317,7 @@ U 1 1 5F46B1CC
 P 4800 3200
 F 0 "D26" V 4846 3120 50  0000 R CNN
 F 1 "D" V 4755 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 4800 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4800 3200 50  0001 C CNN
 F 3 "~" H 4800 3200 50  0001 C CNN
 	1    4800 3200
 	0    -1   -1   0   
@@ -1328,7 +1328,7 @@ U 1 1 5F46B1D2
 P 6200 3200
 F 0 "D28" V 6246 3120 50  0000 R CNN
 F 1 "D" V 6155 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6200 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6200 3200 50  0001 C CNN
 F 3 "~" H 6200 3200 50  0001 C CNN
 	1    6200 3200
 	0    -1   -1   0   
@@ -1339,7 +1339,7 @@ U 1 1 5F46B1D8
 P 5500 3200
 F 0 "D27" V 5546 3120 50  0000 R CNN
 F 1 "D" V 5455 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 5500 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5500 3200 50  0001 C CNN
 F 3 "~" H 5500 3200 50  0001 C CNN
 	1    5500 3200
 	0    -1   -1   0   
@@ -1350,7 +1350,7 @@ U 1 1 5F46B1DE
 P 6900 3200
 F 0 "D29" V 6946 3120 50  0000 R CNN
 F 1 "D" V 6855 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6900 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6900 3200 50  0001 C CNN
 F 3 "~" H 6900 3200 50  0001 C CNN
 	1    6900 3200
 	0    -1   -1   0   
@@ -1361,7 +1361,7 @@ U 1 1 5F46B1E4
 P 7600 3200
 F 0 "D210" V 7646 3120 50  0000 R CNN
 F 1 "D" V 7555 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 7600 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7600 3200 50  0001 C CNN
 F 3 "~" H 7600 3200 50  0001 C CNN
 	1    7600 3200
 	0    -1   -1   0   
@@ -1372,7 +1372,7 @@ U 1 1 5F46B1EA
 P 8300 3200
 F 0 "D211" V 8346 3120 50  0000 R CNN
 F 1 "D" V 8255 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8300 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8300 3200 50  0001 C CNN
 F 3 "~" H 8300 3200 50  0001 C CNN
 	1    8300 3200
 	0    -1   -1   0   
@@ -1383,7 +1383,7 @@ U 1 1 5F46B1F0
 P 9000 3200
 F 0 "D212" V 9046 3120 50  0000 R CNN
 F 1 "D" V 8955 3120 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9000 3200 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9000 3200 50  0001 C CNN
 F 3 "~" H 9000 3200 50  0001 C CNN
 	1    9000 3200
 	0    -1   -1   0   
@@ -1622,7 +1622,7 @@ U 1 1 5F6A105F
 P 9700 4150
 F 0 "D313" V 9746 4070 50  0000 R CNN
 F 1 "D" V 9655 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9700 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9700 4150 50  0001 C CNN
 F 3 "~" H 9700 4150 50  0001 C CNN
 	1    9700 4150
 	0    -1   -1   0   
@@ -1633,7 +1633,7 @@ U 1 1 5F6A1053
 P 8300 4150
 F 0 "D311" V 8346 4070 50  0000 R CNN
 F 1 "D" V 8255 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8300 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8300 4150 50  0001 C CNN
 F 3 "~" H 8300 4150 50  0001 C CNN
 	1    8300 4150
 	0    -1   -1   0   
@@ -1644,7 +1644,7 @@ U 1 1 5F6A104D
 P 7600 4150
 F 0 "D310" V 7646 4070 50  0000 R CNN
 F 1 "D" V 7555 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 7600 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7600 4150 50  0001 C CNN
 F 3 "~" H 7600 4150 50  0001 C CNN
 	1    7600 4150
 	0    -1   -1   0   
@@ -1655,7 +1655,7 @@ U 1 1 5F6A1047
 P 6900 4150
 F 0 "D39" V 6946 4070 50  0000 R CNN
 F 1 "D" V 6855 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6900 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6900 4150 50  0001 C CNN
 F 3 "~" H 6900 4150 50  0001 C CNN
 	1    6900 4150
 	0    -1   -1   0   
@@ -1666,7 +1666,7 @@ U 1 1 5F6A1041
 P 5500 4150
 F 0 "D37" V 5546 4070 50  0000 R CNN
 F 1 "D" V 5455 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 5500 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5500 4150 50  0001 C CNN
 F 3 "~" H 5500 4150 50  0001 C CNN
 	1    5500 4150
 	0    -1   -1   0   
@@ -1677,7 +1677,7 @@ U 1 1 5F6A103B
 P 6200 4150
 F 0 "D38" V 6246 4070 50  0000 R CNN
 F 1 "D" V 6155 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6200 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6200 4150 50  0001 C CNN
 F 3 "~" H 6200 4150 50  0001 C CNN
 	1    6200 4150
 	0    -1   -1   0   
@@ -1688,7 +1688,7 @@ U 1 1 5F6A1035
 P 4800 4150
 F 0 "D36" V 4846 4070 50  0000 R CNN
 F 1 "D" V 4755 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 4800 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4800 4150 50  0001 C CNN
 F 3 "~" H 4800 4150 50  0001 C CNN
 	1    4800 4150
 	0    -1   -1   0   
@@ -1699,7 +1699,7 @@ U 1 1 5F6A102F
 P 4100 4150
 F 0 "D35" V 4146 4070 50  0000 R CNN
 F 1 "D" V 4055 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 4100 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4100 4150 50  0001 C CNN
 F 3 "~" H 4100 4150 50  0001 C CNN
 	1    4100 4150
 	0    -1   -1   0   
@@ -1710,7 +1710,7 @@ U 1 1 5F6A1029
 P 3400 4150
 F 0 "D34" V 3446 4070 50  0000 R CNN
 F 1 "D" V 3355 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 3400 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3400 4150 50  0001 C CNN
 F 3 "~" H 3400 4150 50  0001 C CNN
 	1    3400 4150
 	0    -1   -1   0   
@@ -1721,7 +1721,7 @@ U 1 1 5F6A1023
 P 2700 4150
 F 0 "D33" V 2746 4070 50  0000 R CNN
 F 1 "D" V 2655 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 2700 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2700 4150 50  0001 C CNN
 F 3 "~" H 2700 4150 50  0001 C CNN
 	1    2700 4150
 	0    -1   -1   0   
@@ -1732,7 +1732,7 @@ U 1 1 5F6A101D
 P 2000 4150
 F 0 "D32" V 2046 4070 50  0000 R CNN
 F 1 "D" V 1955 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 2000 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 4150 50  0001 C CNN
 F 3 "~" H 2000 4150 50  0001 C CNN
 	1    2000 4150
 	0    -1   -1   0   
@@ -1753,7 +1753,7 @@ U 1 1 5F6A1012
 P 1300 4150
 F 0 "D31" V 1346 4070 50  0000 R CNN
 F 1 "D" V 1255 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 1300 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1300 4150 50  0001 C CNN
 F 3 "~" H 1300 4150 50  0001 C CNN
 	1    1300 4150
 	0    -1   -1   0   
@@ -1764,150 +1764,150 @@ U 1 1 5F6A100C
 P 600 4150
 F 0 "D30" V 646 4070 50  0000 R CNN
 F 1 "D" V 555 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 600 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 600 4150 50  0001 C CNN
 F 3 "~" H 600 4150 50  0001 C CNN
 	1    600  4150
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K30
+L keyboard2-rescue:KEYSW-keyboard_parts K30
 U 1 1 5F6A1006
 P 900 3850
 F 0 "K30" H 900 4083 60  0000 C CNN
 F 1 "KEYSW" H 900 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 900 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB" H 900 3850 60  0001 C CNN
 F 3 "" H 900 3850 60  0000 C CNN
 	1    900  3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K31
+L keyboard2-rescue:KEYSW-keyboard_parts K31
 U 1 1 5F6A1000
 P 1600 3850
 F 0 "K31" H 1600 4083 60  0000 C CNN
 F 1 "KEYSW" H 1600 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 1600 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1600 3850 60  0001 C CNN
 F 3 "" H 1600 3850 60  0000 C CNN
 	1    1600 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K313
+L keyboard2-rescue:KEYSW-keyboard_parts K313
 U 1 1 5F6A0FFA
 P 10000 3850
 F 0 "K313" H 10000 4083 60  0000 C CNN
 F 1 "KEYSW" H 10000 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10000 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10000 3850 60  0001 C CNN
 F 3 "" H 10000 3850 60  0000 C CNN
 	1    10000 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K311
+L keyboard2-rescue:KEYSW-keyboard_parts K311
 U 1 1 5F6A0FEE
 P 8600 3850
 F 0 "K311" H 8600 4083 60  0000 C CNN
 F 1 "KEYSW" H 8600 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 8600 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_2.75u_PCB" H 8600 3850 60  0001 C CNN
 F 3 "" H 8600 3850 60  0000 C CNN
 	1    8600 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K310
+L keyboard2-rescue:KEYSW-keyboard_parts K310
 U 1 1 5F6A0FE8
 P 7900 3850
 F 0 "K310" H 7900 4083 60  0000 C CNN
 F 1 "KEYSW" H 7900 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7900 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7900 3850 60  0001 C CNN
 F 3 "" H 7900 3850 60  0000 C CNN
 	1    7900 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K39
+L keyboard2-rescue:KEYSW-keyboard_parts K39
 U 1 1 5F6A0FE2
 P 7200 3850
 F 0 "K39" H 7200 4083 60  0000 C CNN
 F 1 "KEYSW" H 7200 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7200 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7200 3850 60  0001 C CNN
 F 3 "" H 7200 3850 60  0000 C CNN
 	1    7200 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K38
+L keyboard2-rescue:KEYSW-keyboard_parts K38
 U 1 1 5F6A0FDC
 P 6500 3850
 F 0 "K38" H 6500 4083 60  0000 C CNN
 F 1 "KEYSW" H 6500 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 6500 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6500 3850 60  0001 C CNN
 F 3 "" H 6500 3850 60  0000 C CNN
 	1    6500 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K37
+L keyboard2-rescue:KEYSW-keyboard_parts K37
 U 1 1 5F6A0FD6
 P 5800 3850
 F 0 "K37" H 5800 4083 60  0000 C CNN
 F 1 "KEYSW" H 5800 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 5800 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5800 3850 60  0001 C CNN
 F 3 "" H 5800 3850 60  0000 C CNN
 	1    5800 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K36
+L keyboard2-rescue:KEYSW-keyboard_parts K36
 U 1 1 5F6A0FD0
 P 5100 3850
 F 0 "K36" H 5100 4083 60  0000 C CNN
 F 1 "KEYSW" H 5100 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 5100 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5100 3850 60  0001 C CNN
 F 3 "" H 5100 3850 60  0000 C CNN
 	1    5100 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K35
+L keyboard2-rescue:KEYSW-keyboard_parts K35
 U 1 1 5F6A0FCA
 P 4400 3850
 F 0 "K35" H 4400 4083 60  0000 C CNN
 F 1 "KEYSW" H 4400 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 4400 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4400 3850 60  0001 C CNN
 F 3 "" H 4400 3850 60  0000 C CNN
 	1    4400 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K34
+L keyboard2-rescue:KEYSW-keyboard_parts K34
 U 1 1 5F6A0FC4
 P 3700 3850
 F 0 "K34" H 3700 4083 60  0000 C CNN
 F 1 "KEYSW" H 3700 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 3700 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3700 3850 60  0001 C CNN
 F 3 "" H 3700 3850 60  0000 C CNN
 	1    3700 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K33
+L keyboard2-rescue:KEYSW-keyboard_parts K33
 U 1 1 5F6A0FBE
 P 3000 3850
 F 0 "K33" H 3000 4083 60  0000 C CNN
 F 1 "KEYSW" H 3000 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 3000 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3000 3850 60  0001 C CNN
 F 3 "" H 3000 3850 60  0000 C CNN
 	1    3000 3850
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K32
+L keyboard2-rescue:KEYSW-keyboard_parts K32
 U 1 1 5F6A0FB8
 P 2300 3850
 F 0 "K32" H 2300 4083 60  0000 C CNN
 F 1 "KEYSW" H 2300 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 2300 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2300 3850 60  0001 C CNN
 F 3 "" H 2300 3850 60  0000 C CNN
 	1    2300 3850
 	1    0    0    -1  
@@ -1961,7 +1961,7 @@ U 1 1 5F7FD2C7
 P 9700 5050
 F 0 "D413" V 9746 4970 50  0000 R CNN
 F 1 "D" V 9655 4970 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9700 5050 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9700 5050 50  0001 C CNN
 F 3 "~" H 9700 5050 50  0001 C CNN
 	1    9700 5050
 	0    -1   -1   0   
@@ -1972,7 +1972,7 @@ U 1 1 5F7FD2CD
 P 9000 5050
 F 0 "D412" V 9046 4970 50  0000 R CNN
 F 1 "D" V 8955 4970 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9000 5050 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9000 5050 50  0001 C CNN
 F 3 "~" H 9000 5050 50  0001 C CNN
 	1    9000 5050
 	0    -1   -1   0   
@@ -1983,7 +1983,7 @@ U 1 1 5F7FD2D3
 P 8300 5050
 F 0 "D411" V 8346 4970 50  0000 R CNN
 F 1 "D" V 8255 4970 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8300 5050 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8300 5050 50  0001 C CNN
 F 3 "~" H 8300 5050 50  0001 C CNN
 	1    8300 5050
 	0    -1   -1   0   
@@ -1994,7 +1994,7 @@ U 1 1 5F7FD2D9
 P 7600 5050
 F 0 "D410" V 7646 4970 50  0000 R CNN
 F 1 "D" V 7555 4970 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 7600 5050 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7600 5050 50  0001 C CNN
 F 3 "~" H 7600 5050 50  0001 C CNN
 	1    7600 5050
 	0    -1   -1   0   
@@ -2005,7 +2005,7 @@ U 1 1 5F7FD2DF
 P 6900 5050
 F 0 "D49" V 6946 4970 50  0000 R CNN
 F 1 "D" V 6855 4970 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6900 5050 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6900 5050 50  0001 C CNN
 F 3 "~" H 6900 5050 50  0001 C CNN
 	1    6900 5050
 	0    -1   -1   0   
@@ -2016,7 +2016,7 @@ U 1 1 5F7FD2F7
 P 4100 5050
 F 0 "D45" V 4146 4970 50  0000 R CNN
 F 1 "D" V 4055 4970 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 4100 5050 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4100 5050 50  0001 C CNN
 F 3 "~" H 4100 5050 50  0001 C CNN
 	1    4100 5050
 	0    -1   -1   0   
@@ -2027,7 +2027,7 @@ U 1 1 5F7FD309
 P 2000 5050
 F 0 "D42" V 2046 4970 50  0000 R CNN
 F 1 "D" V 1955 4970 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 2000 5050 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 5050 50  0001 C CNN
 F 3 "~" H 2000 5050 50  0001 C CNN
 	1    2000 5050
 	0    -1   -1   0   
@@ -2048,7 +2048,7 @@ U 1 1 5F7FD314
 P 1300 5050
 F 0 "D41" V 1346 4970 50  0000 R CNN
 F 1 "D" V 1255 4970 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 1300 5050 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1300 5050 50  0001 C CNN
 F 3 "~" H 1300 5050 50  0001 C CNN
 	1    1300 5050
 	0    -1   -1   0   
@@ -2059,106 +2059,106 @@ U 1 1 5F7FD31A
 P 600 5050
 F 0 "D40" V 646 4970 50  0000 R CNN
 F 1 "D" V 555 4970 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 600 5050 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 600 5050 50  0001 C CNN
 F 3 "~" H 600 5050 50  0001 C CNN
 	1    600  5050
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K40
+L keyboard2-rescue:KEYSW-keyboard_parts K40
 U 1 1 5F7FD320
 P 900 4750
 F 0 "K40" H 900 4983 60  0000 C CNN
 F 1 "KEYSW" H 900 4650 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 900 4750 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB" H 900 4750 60  0001 C CNN
 F 3 "" H 900 4750 60  0000 C CNN
 	1    900  4750
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K41
+L keyboard2-rescue:KEYSW-keyboard_parts K41
 U 1 1 5F7FD326
 P 1600 4750
 F 0 "K41" H 1600 4983 60  0000 C CNN
 F 1 "KEYSW" H 1600 4650 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 1600 4750 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB" H 1600 4750 60  0001 C CNN
 F 3 "" H 1600 4750 60  0000 C CNN
 	1    1600 4750
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K413
+L keyboard2-rescue:KEYSW-keyboard_parts K413
 U 1 1 5F7FD32C
 P 10000 4750
 F 0 "K413" H 10000 4983 60  0000 C CNN
 F 1 "KEYSW" H 10000 4650 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10000 4750 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10000 4750 60  0001 C CNN
 F 3 "" H 10000 4750 60  0000 C CNN
 	1    10000 4750
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K412
+L keyboard2-rescue:KEYSW-keyboard_parts K412
 U 1 1 5F7FD332
 P 9300 4750
 F 0 "K412" H 9300 4983 60  0000 C CNN
 F 1 "KEYSW" H 9300 4650 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9300 4750 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9300 4750 60  0001 C CNN
 F 3 "" H 9300 4750 60  0000 C CNN
 	1    9300 4750
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K411
+L keyboard2-rescue:KEYSW-keyboard_parts K411
 U 1 1 5F7FD338
 P 8600 4750
 F 0 "K411" H 8600 4983 60  0000 C CNN
 F 1 "KEYSW" H 8600 4650 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 8600 4750 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB" H 8600 4750 60  0001 C CNN
 F 3 "" H 8600 4750 60  0000 C CNN
 	1    8600 4750
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K410
+L keyboard2-rescue:KEYSW-keyboard_parts K410
 U 1 1 5F7FD33E
 P 7900 4750
 F 0 "K410" H 7900 4983 60  0000 C CNN
 F 1 "KEYSW" H 7900 4650 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7900 4750 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB" H 7900 4750 60  0001 C CNN
 F 3 "" H 7900 4750 60  0000 C CNN
 	1    7900 4750
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K49
+L keyboard2-rescue:KEYSW-keyboard_parts K49
 U 1 1 5F7FD344
 P 7200 4750
 F 0 "K49" H 7200 4983 60  0000 C CNN
 F 1 "KEYSW" H 7200 4650 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7200 4750 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB" H 7200 4750 60  0001 C CNN
 F 3 "" H 7200 4750 60  0000 C CNN
 	1    7200 4750
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K45
+L keyboard2-rescue:KEYSW-keyboard_parts K45
 U 1 1 5F7FD35C
 P 4400 4750
 F 0 "K45" H 4400 4983 60  0000 C CNN
 F 1 "KEYSW" H 4400 4650 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 4400 4750 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB" H 4400 4750 60  0001 C CNN
 F 3 "" H 4400 4750 60  0000 C CNN
 	1    4400 4750
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K42
+L keyboard2-rescue:KEYSW-keyboard_parts K42
 U 1 1 5F7FD36E
 P 2300 4750
 F 0 "K42" H 2300 4983 60  0000 C CNN
 F 1 "KEYSW" H 2300 4650 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 2300 4750 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB" H 2300 4750 60  0001 C CNN
 F 3 "" H 2300 4750 60  0000 C CNN
 	1    2300 4750
 	1    0    0    -1  
@@ -2166,12 +2166,12 @@ $EndComp
 Wire Wire Line
 	2000 5250 4100 5250
 $Comp
-L keyboard_parts:KEYSW K414
+L keyboard2-rescue:KEYSW-keyboard_parts K414
 U 1 1 5F93435F
 P 10700 4750
 F 0 "K414" H 10700 4983 60  0000 C CNN
 F 1 "KEYSW" H 10700 4650 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10700 4750 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10700 4750 60  0001 C CNN
 F 3 "" H 10700 4750 60  0000 C CNN
 	1    10700 4750
 	1    0    0    -1  
@@ -2182,7 +2182,7 @@ U 1 1 5F935657
 P 10400 5050
 F 0 "D414" V 10446 4970 50  0000 R CNN
 F 1 "D" V 10355 4970 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 10400 5050 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10400 5050 50  0001 C CNN
 F 3 "~" H 10400 5050 50  0001 C CNN
 	1    10400 5050
 	0    -1   -1   0   
@@ -2240,12 +2240,12 @@ Wire Wire Line
 	500  5250 600  5250
 Connection ~ 600  5250
 $Comp
-L keyboard_parts:KEYSW K214
+L keyboard2-rescue:KEYSW-keyboard_parts K214
 U 1 1 5FBD517F
 P 10700 2900
 F 0 "K214" H 10700 3133 60  0000 C CNN
 F 1 "KEYSW" H 10700 2800 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10700 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10700 2900 60  0001 C CNN
 F 3 "" H 10700 2900 60  0000 C CNN
 	1    10700 2900
 	1    0    0    -1  
@@ -2259,7 +2259,7 @@ U 1 1 5FBF0B2C
 P 10400 3150
 F 0 "D214" V 10446 3070 50  0000 R CNN
 F 1 "D" V 10355 3070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 10400 3150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10400 3150 50  0001 C CNN
 F 3 "~" H 10400 3150 50  0001 C CNN
 	1    10400 3150
 	0    -1   -1   0   
@@ -2280,12 +2280,12 @@ Wire Wire Line
 Wire Wire Line
 	8300 4350 9700 4350
 $Comp
-L keyboard_parts:KEYSW K314
+L keyboard2-rescue:KEYSW-keyboard_parts K314
 U 1 1 5FD3481F
 P 10700 3850
 F 0 "K314" H 10700 4083 60  0000 C CNN
 F 1 "KEYSW" H 10700 3750 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10700 3850 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 10700 3850 60  0001 C CNN
 F 3 "" H 10700 3850 60  0000 C CNN
 	1    10700 3850
 	1    0    0    -1  
@@ -2299,7 +2299,7 @@ U 1 1 5FD3521D
 P 10400 4150
 F 0 "D314" V 10446 4070 50  0000 R CNN
 F 1 "D" V 10355 4070 50  0000 R CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 10400 4150 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10400 4150 50  0001 C CNN
 F 3 "~" H 10400 4150 50  0001 C CNN
 	1    10400 4150
 	0    -1   -1   0   
