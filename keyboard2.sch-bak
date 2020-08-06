@@ -1230,7 +1230,7 @@ U 1 1 5F46B19D
 P 900 2900
 F 0 "K20" H 900 3133 60  0000 C CNN
 F 1 "KEYSW" H 900 2800 60  0001 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_Plate" H 900 2900 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB" H 900 2900 60  0001 C CNN
 F 3 "" H 900 2900 60  0000 C CNN
 	1    900  2900
 	1    0    0    -1  
@@ -2197,7 +2197,7 @@ Wire Wire Line
 	2600 4750 2600 3850
 Connection ~ 2600 3850
 Wire Wire Line
-	4100 5250 6900 5250
+	4100 5250 6200 5250
 Connection ~ 4100 5250
 Connection ~ 6900 5250
 Wire Wire Line
@@ -2311,4 +2311,36 @@ Wire Wire Line
 Connection ~ 9700 4350
 Wire Wire Line
 	10400 4000 10400 3850
+$Comp
+L keyboard2-rescue:KEYSW-keyboard_parts K48
+U 1 1 5F3E7569
+P 6500 4750
+F 0 "K48" H 6500 4983 60  0000 C CNN
+F 1 "KEYSW" H 6500 4650 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB" H 6500 4750 60  0001 C CNN
+F 3 "" H 6500 4750 60  0000 C CNN
+	1    6500 4750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6800 3850 6800 4750
+Connection ~ 6800 3850
+$Comp
+L Device:D D48
+U 1 1 5F4039F2
+P 6200 5050
+F 0 "D48" V 6246 4970 50  0000 R CNN
+F 1 "D" V 6155 4970 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" H 6200 5050 50  0001 C CNN
+F 3 "~" H 6200 5050 50  0001 C CNN
+	1    6200 5050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6200 4900 6200 4750
+Wire Wire Line
+	6200 5200 6200 5250
+Connection ~ 6200 5250
+Wire Wire Line
+	6200 5250 6900 5250
 $EndSCHEMATC
